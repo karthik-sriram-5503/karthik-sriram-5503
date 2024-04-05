@@ -1,3 +1,12 @@
+<h1 align="center">Hi Everyone!</h1>
+
+<h1 align="center">I'm Karthik Sriram B A</h1>
+
+<div align="center">
+<img src="https://img.freepik.com/free-vector/online-games-addiction-concept-illustration_114360-2014.jpg?w=740&t=st=1712297058~exp=1712297658~hmac=70a71f2d5c82cf4e075326de3a1f4b8813f8cd72dc9c8802f5ce6ce503470d49" alt='program-illustrator'>
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Full-stack Development<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Django, PowerBI, <br>💬 Ask me about ML and Neural Networks<br>⚡ Fun fact I'm a Formula 1 Lunatic
 
@@ -15,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karthik-sriram-5503&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
