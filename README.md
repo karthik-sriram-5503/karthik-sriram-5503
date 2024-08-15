@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on LLM<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Django, PowerBI, <br>💬 Ask me about ML and Neural Networks<br>⚡ Fun fact I'm a Formula 1 Lunatic
+🔭 I’m currently working on LLM<br>👯 I’m looking to collaborate on ML and DL projects<br>🤝 I’m looking for help with Code Review and Feedback<br>💬 Ask me about ML and Neural Networks<br>⚡ Fun fact I'm a Formula 1 Lunatic
 
 
 ## 🌐 Socials:
